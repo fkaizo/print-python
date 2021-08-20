@@ -1,5 +1,5 @@
 from graphql_client import GraphQLClient
-from ecspos import printer
+from escpos import printer
 
 query = """
   subscription {
